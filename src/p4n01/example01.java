@@ -30,3 +30,4 @@ ResultSet rs=stmt.executeQuery("select * from emp");
 } 
     }
 
+//JDBC
